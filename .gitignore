@@ -1,0 +1,6 @@
+# Mac
+.DS_Store
+
+# KDB+ generated files
+*.log
+hdb/*

@@ -16,6 +16,16 @@ Tracks CPU, memory, disk and network stats on your local machine using a full KD
 - Linux ✅
 - Windows ❌ (not supported)
 
+## Storage Estimates
+At 1 row/second, approximate disk usage for the HDB:
+
+| Timeframe | Rows | Size |
+|---|---|---|
+| 1 hour | ~3,600 | ~350 KB |
+| 1 day | ~86,400 | ~8 MB |
+| 1 month | ~2.6M | ~250 MB |
+| 1 year | ~31M | ~3 GB |
+
 ## Stack
 - KDB+/q 4.1
 - Grafana
